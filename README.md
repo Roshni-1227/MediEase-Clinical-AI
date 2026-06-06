@@ -4,11 +4,11 @@
 
 ### Interactive Prescription Intelligence — OCR + AI Extraction + Fuzzy Risk Analysis
 
-![Java](https://img.shields.io/badge/Java-17-orange?style=flat-square&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.x-6DB33F?style=flat-square&logo=springboot)
-![Groq](https://img.shields.io/badge/Groq-LLaMA_3.1-8B-blueviolet?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker)
-![Status](https://img.shields.io/badge/Status-Research_Prototype-yellow?style=flat-square)
+[![Java](https://img.shields.io/badge/Java-17-orange?style=flat-square&logo=openjdk)](https://www.java.com)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.2.x-6DB33F?style=flat-square&logo=springboot)](https://spring.io/projects/spring-boot)
+[![Groq](https://img.shields.io/badge/Groq-LLaMA_3.1_8B-blueviolet?style=flat-square)](https://console.groq.com)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker)](https://www.docker.com)
+[![Status](https://img.shields.io/badge/Status-Research_Prototype-yellow?style=flat-square)](#overview)
 
 > ⚕️ **Disclaimer:** MediEase is intended for **research and prototyping only**. All AI-generated output must be verified by a licensed medical professional before any clinical use.
 
